@@ -20,7 +20,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAA8NXdcAT4S3Ghykx4kQv1y3YRcIko6a0" />
+            android:value="Insert your API Key here" />
 
         <activity android:name=".activities.InfoActivity"></activity>
         <activity android:name=".activities.CafeMapActivity">
